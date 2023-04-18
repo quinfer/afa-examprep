@@ -5,6 +5,7 @@ format:
   revealjs:
     slide-number: true
     self-contained: true
+    smaller: true
 ---
 
 ##
