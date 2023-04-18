@@ -1,0 +1,75 @@
+---
+title: "Exam Prep FIN7030"
+author: "Barry Quinn"
+format: 
+  revealjs:
+    slide-number: true
+    self-contained: true
+---
+
+##
+
+![](img/eval.png)
+
+## Schedule
+
+-   Tuesday 9^th^May, 9.30am-12:00 Trading Room, RH/01/017 middle block.
+
+-   Be there from 9am please.
+
+## Exam description
+- The exam is open book.
+- The exam is a mix of theory, computational, and interpretive questions.
+- You will use a dedicated Posit Workspace to answer the practical questions.
+- The theory questions are multiple-choice with at least one correct answer and students must select all correct answers for full marks.
+- There is no negative marking on the MC exam.
+- To answer the practical questions download the HTML file, and the embedded csv file.
+- Then upload this data to the dedicated Posit Workspace.
+
+## Mock Exam
+- <https://canvas.qub.ac.uk/courses/21013/quizzes/73174>
+- This is a mock which is a smaller version of the actual exam.
+- The exam is a mix of multiple-choice questions and a practical exercise.
+- The practical exercise can be completed on the existing Posit Cloud workspace for this class.
+
+## Exam structure
+
+-   You have two and a half hours to answer this 17 questions quiz.
+-   There are 12 multiple-choice (which have at least one correct answer) questions 
+-  There are 1 practical questions (with 5 parts) to be answered on Posit Cloud then a completed qmd file needs to be submitted to Canvas.
+-   Similar to the mock you can access the data for practical questions using the linked HTML.
+-   The data is a .csv which you must load into R using your favourite .csv import routine.
+-   For example `data<-read_csv(<filename>.csv)`.
+
+## Multiple Choice
+
+- Each question has at least one correct answer.
+- Each question is worth 10 marks.
+- Students should select all correct answers for full marks.
+
+## Practical Exam
+- Be at the venue for 9am to get set up on Posit Cloud.
+- Make sure you export, then upload a completed qmd file before the exam finishes.
+- Your access to the workspace will cease when the exam is finished.
+
+## Practical Exam
+- Each question has a number of parts which are worth 45 marks in total.
+- You must answer all questions for full marks.
+- Any numerical answer must be accompanied by the code which produces it so that method marks can be awarded where possible.
+- A working version of the `fml` package will be available on when you create a new project in the exam workspace
+
+## Collusion and cheating {.smaller}
+- Collusion and cheating are serious offences and are likely to result in an unprofessionalism mark on your performance.
+- As a lecturer, I believe in your ability to conduct yourself professionally and with integrity
+- Collusion and cheating measures have been coded into the exam script, as decreed by the university.
+- Given my belief in your abilities and integrity, I fully expect this measure to score zero.
+- It is an open-book exam so you are allowed to refer to your notes and any other sources you see fit.
+- Remember that directly quoting from any material is still plagiarism and classed as cheating by the QUB, so answer in your own voice.
+
+
+## Tips
+
+- Make sure you know how to export from Posit Cloud
+- Manage you time based on the marks allocated
+  - 10 for each  multiple choice question
+  - 45 for each of the practice question
