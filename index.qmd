@@ -47,7 +47,6 @@ format:
 - As a lecturer, I believe in your ability to conduct yourself professionally and with integrity
 - Collusion and cheating measures have been coded into the exam script, as decreed by the university.
 - Given my belief in your abilities and integrity, I fully expect this measure to score zero.
-- It is an open-book exam so you are allowed to refer to your notes and any other sources you see fit.
 - Remember that directly quoting from any material is still plagiarism and classed as cheating by the QUB, so answer in your own voice.
 
 ## Tips {.smaller}
