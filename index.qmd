@@ -1,63 +1,46 @@
 ---
-title: "Exam Prep FIN7030"
+title: "Exam Prep FIN7028"
 author: "Barry Quinn"
 format: 
   revealjs:
     slide-number: true
     self-contained: true
-    smaller: true
+    css: [mycss.css]
 ---
 
-##
+## Student Route / Tier 4 Students
+
+![](img/FIN7028.jpg)
+
+
+
+## Evaluating Me 
+### (Less the 4 and I get fired!)
 
 ![](img/eval.png)
 
 ## Schedule
 
--   Tuesday 9^th^May, 9.30am-12:00 Trading Room, RH/01/017 middle block.
+- MBC/01/026 on 02/05/2023 from 9am - 11.30pm. 
 
--   Be there from 9am please.
+- Be there from 8:45am please to get logged in.
 
 ## Exam description
-- The exam is open book.
+
 - The exam is a mix of theory, computational, and interpretive questions.
-- You will use a dedicated Posit Workspace to answer the practical questions.
-- The theory questions are multiple-choice with at least one correct answer and students must select all correct answers for full marks.
-- There is no negative marking on the MC exam.
-- To answer the practical questions download the HTML file, and the embedded csv file.
-- Then upload this data to the dedicated Posit Workspace.
+- A monitored Posit Workspace will used to take the exam on an MBC lab computer.
+- **You will need to downlnad and submit your final qmd file to Canvas**
+- You will have two and a half hours to answer 3 questions.
 
 ## Mock Exam
-- <https://canvas.qub.ac.uk/courses/21013/quizzes/73174>
-- This is a mock which is a smaller version of the actual exam.
-- The exam is a mix of multiple-choice questions and a practical exercise.
-- The practical exercise can be completed on the existing Posit Cloud workspace for this class.
+- <https://canvas.qub.ac.uk/courses/19571/assignments/129361>
+- This replicates the final exam structure and question type.
 
-## Exam structure
+### Exam structure {.smaller}
 
--   You have two and a half hours to answer this 17 questions quiz.
--   There are 12 multiple-choice (which have at least one correct answer) questions 
--  There are 1 practical questions (with 5 parts) to be answered on Posit Cloud then a completed qmd file needs to be submitted to Canvas.
--   Similar to the mock you can access the data for practical questions using the linked HTML.
--   The data is a .csv which you must load into R using your favourite .csv import routine.
--   For example `data<-read_csv(<filename>.csv)`.
+- You have two and a half hours to answer three questions.
+- All of section one questions and you have to choose one from section two. 
 
-## Multiple Choice
-
-- Each question has at least one correct answer.
-- Each question is worth 10 marks.
-- Students should select all correct answers for full marks.
-
-## Practical Exam
-- Be at the venue for 9am to get set up on Posit Cloud.
-- Make sure you export, then upload a completed qmd file before the exam finishes.
-- Your access to the workspace will cease when the exam is finished.
-
-## Practical Exam
-- Each question has a number of parts which are worth 45 marks in total.
-- You must answer all questions for full marks.
-- Any numerical answer must be accompanied by the code which produces it so that method marks can be awarded where possible.
-- A working version of the `fml` package will be available on when you create a new project in the exam workspace
 
 ## Collusion and cheating {.smaller}
 - Collusion and cheating are serious offences and are likely to result in an unprofessionalism mark on your performance.
@@ -67,10 +50,23 @@ format:
 - It is an open-book exam so you are allowed to refer to your notes and any other sources you see fit.
 - Remember that directly quoting from any material is still plagiarism and classed as cheating by the QUB, so answer in your own voice.
 
+## Tips {.smaller}
 
-## Tips
+- Check out my [how to video](https://canvas.qub.ac.uk/courses/19571/pages/how-to-videos) on export from Posit
+- Packages you will need to use in exam
+- [`ffp2`](https://pkg.robjhyndman.com/fpp2-package/)
+- [`tidyverse`](https://www.tidyverse.org/)
+  - only `ggplot`
+- [`forecast`](https://www.rdocumentation.org/packages/forecast/versions/8.21)
+- You are free to use other packages, but these three will be pre-installed in the exam environment.
 
-- Make sure you know how to export from Posit Cloud
-- Manage you time based on the marks allocated
-  - 10 for each  multiple choice question
-  - 45 for each of the practice question
+## Revision
+
+- Start with the published material on canvas
+- use the book to help with things the notes do not make clear
+- Questions?
+
+## My mid life crisis
+
+![](img/mymarathon.png)
+<https://www.justgiving.com/fundraising/midlifecrisis5>
