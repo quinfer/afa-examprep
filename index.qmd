@@ -73,3 +73,9 @@ format:
 ## Question 2
 
 - `fma::dj`contains 292 consecutive trading days of the Dow Jones Index.
+
+## Submitting to Canvas {.smaller}
+
+- Save and export form file from Posit Cloud
+- Go to the assignments In Canvas
+![](img/canvas.png)
