@@ -76,6 +76,6 @@ format:
 
 ## Submitting to Canvas {.smaller}
 
-- Save and export form file from Posit Cloud
+- Save and export your .qmd file from Posit Cloud
 - Go to the assignments In Canvas
 ![](img/canvas.png)
