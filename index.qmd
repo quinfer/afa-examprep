@@ -69,3 +69,7 @@ format:
 
 ![](img/mymarathon.png)
 <https://www.justgiving.com/fundraising/midlifecrisis5>
+
+## Question 2
+
+- `fma::dj`contains 292 consecutive trading days of the Dow Jones Index.
